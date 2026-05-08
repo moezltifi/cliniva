@@ -1,0 +1,6 @@
+[submodule "healthcare-backend"]
+	path = healthcare-backend
+	url = https://github.com/moezltifi/healthcare-backend.git
+[submodule "heathcare-front-end"]
+	path = heathcare-front-end
+	url = https://github.com/moezltifi/healthcare-front-end.git
